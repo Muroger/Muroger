@@ -3,9 +3,8 @@
 My name is Andrey. I'm interested in Computer Vision.
 
 ### My CV:
-[English version](https://docs.google.com/document/d/1WFdGgtzy5rStVOCFiHJPcfSRp2GGwE2uM3DUztL2s68/edit?usp=sharing)
+[English version](https://drive.google.com/file/d/1oqkeMyfttpaUkSemkW1q2TiepJVwN_BU/view?usp=sharing)
 
-[Russian version](https://docs.google.com/document/d/1_Rzlw7jjlsRPERjWz2cLHwFMgRhVEyFI66S1R1rragM/edit?usp=sharing)
 ### Free-time projects:
 
 | Project | Comment |
